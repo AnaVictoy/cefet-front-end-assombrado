@@ -185,6 +185,7 @@ main {
 .tag-3 {
     font-size: 150%;
 }
+
 .tag-1:active,
 .tag-2:active,
 .tag-3:active {
@@ -296,18 +297,21 @@ footer .texto-rodape {
     bottom: 15px;
 }
 
-.post{
-  position: relative;
+.post {
+    position: relative;
 }
- .post > h2{
-  position: absolute;
-  top: 0px;
-  padding: 10px;
-display: none;
+
+.post > h2 {
+    position: absolute;
+    top: 0px;
+    padding: 10px;
+    display: none;
 }
-#posts-principais .post .titulo{
+
+#posts-principais .post .titulo {
     background-color: rgba(255, 255, 255, 0.5);
 }
+
 #posts-principais .post:hover .titulo {
     display: block;
 }
