@@ -198,7 +198,8 @@ Pesquise na Internet como fazer isso.
    ```html
    <script src="caminho-para-arquivo.js"></script>
    ```
-
+## Observação:
+Os fantasmas estão bem, BEM invisiveis.
 
 
 
